@@ -31,14 +31,6 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kwalletmanager-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "0001-Move-desktop-files-to-src-manager.patch"
-                },
-                {
-                    "type": "patch",
-                    "path": "0002-Add-option-to-not-build-KCM-KAuth-support.patch"
                 }
             ]
         }
